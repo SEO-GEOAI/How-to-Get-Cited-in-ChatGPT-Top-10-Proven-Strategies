@@ -158,6 +158,7 @@ Q: How do I know if ChatGPT is citing me?
 Run topic queries and check with A/B testing if your work appears in the generated references.
 
 References
+
 Chen, M., Wang, X., Chen, K., & Koudas, N. (2025). Generative Engine Optimization: How to Dominate AI Search. arXiv preprint arXiv:2509.08919. https://doi.org/10.48550/arXiv.2509.08919
 
 Extract, transform, load. (Updated June 4, 2025, Accessed October 5, 2025). Wikipedia, Wikimedia Foundation, Inc. https://en.wikipedia.org/wiki/Extract,_transform,_load
